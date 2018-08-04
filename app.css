@@ -1,0 +1,15 @@
+.todo,.form{
+  border:solid;
+  margin:1em;
+  border-color:gray;
+}
+.done{
+  background-color:lightgreen;
+}
+.undone{
+  background-color:tomato;
+}
+input,textarea,button{
+  width:200px;
+  margin:0.5em 1em;
+}
